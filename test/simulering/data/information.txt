@@ -1,0 +1,7 @@
+test 184 til og med 190 er
+med samme parametre,
+fundet i MATLAB.
+
+test 231 til og med 249 er
+med samme >>fintunede<< parametre,
+fundet af Mikael
